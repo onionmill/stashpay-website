@@ -23,8 +23,9 @@ jobs:
       - name: Install, build, and upload your site
         uses: withastro/action@v3
         with:
+          path: .
           node-version: 20
-          package-manager: yarn@latest
+          package-manager: yarn@1
   deploy:
     needs: build
     runs-on: ubuntu-latest
