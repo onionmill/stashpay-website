@@ -25,7 +25,9 @@ jobs:
         with:
           path: .
           node-version: 20
-          package-manager: pnpm@latest
+          package-manager: yarn@1
+          cache: 'yarn'
+          cache-dependency-path: '**/yarn.lock'
   deploy:
     needs: build
     runs-on: ubuntu-latest
