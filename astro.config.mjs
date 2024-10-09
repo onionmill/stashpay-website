@@ -6,7 +6,6 @@ import icon from "astro-icon";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://onionmill.github.io",
-  base: 'website',
+  site: "https://stashpay.me",
   integrations: [tailwind(), mdx(), sitemap(), icon()],
 });
