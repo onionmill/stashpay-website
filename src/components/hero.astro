@@ -1,6 +1,6 @@
 ---
 import { Picture } from "astro:assets";
-import heroImage from "assets/hero.png";
+import heroImage from "assets/iphone.png";
 import Link from "@components/ui/link.astro";
 import { Icon } from "astro-icon/components";
 ---
@@ -10,9 +10,9 @@ import { Icon } from "astro-icon/components";
   <div class="py-6 md:order-1 hidden md:block">
     <Picture
       src={heroImage}
-      alt="Astronaut in the air"
-      widths={[200, 400, 600]}
-      sizes="(max-width: 800px) 100vw, 620px"
+      alt="iPhone showing the StashPay app"
+      width={heroImage.width / 2.25}
+      densities={[1.5, 2]}
       loading="eager"
       format="avif"
     />
