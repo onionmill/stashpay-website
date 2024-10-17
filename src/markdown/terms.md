@@ -46,16 +46,22 @@
 
 8.1 These Terms shall be governed by and construed in accordance with the laws of Wyoming, United States of America.
 
-### 9. ENTIRE AGREEMENT
+### 9. YOUR COMPLIANCE WITH APPLICABLE LAWS
 
-9.1 These Terms constitute the entire agreement between the parties and supersede all prior or contemporaneous agreements or understandings, whether written or oral.
+9.1 You represent and warrant that you are using the Service in accordance with applicable law, and not for any purpose not in compliance with applicable law, including but not limited to illegal gambling, fraud, money laundering or terrorist activities.
 
-### 10. AMENDMENTS
+9.2 Availability and your use of the Service is subject to international export controls, economic sanctions requirements, or any other jurisdictional limitations. You agree that you will comply with those requirements. You are not permitted to use the Service if: (1) you are in, under the control of, or a national or resident of Cuba, Iran, North Korea, Sudan, or Syria or any other country subject to United States embargo or UN sanctions (a "Sanctioned Country"), or if you are a person on the U.S. Treasury Department's Specially Designated Nationals List or the U.S. Commerce Department's Denied Persons List, Unverified List or Entity List, (a "Sanctioned Person"); or (2) you intend to supply any Digital Assets in a Wallet to a Sanctioned Country (or a national or resident of a Sanctioned Country) or Sanctioned Person.
 
-10.1 StashPay may amend these Terms at any time by posting the amended Terms on the Service. Users shall be deemed to have accepted the amended Terms by continuing to use the Service.
+### 10. ENTIRE AGREEMENT
 
-### 11. CONTACT INFORMATION
+10.1 These Terms constitute the entire agreement between the parties and supersede all prior or contemporaneous agreements or understandings, whether written or oral.
 
-11.1 Users may contact StashPay support by email at support@onionmill.com or through the Service's support feature.
+### 11. AMENDMENTS
+
+11.1 StashPay may amend these Terms at any time by posting the amended Terms on the Service. Users shall be deemed to have accepted the amended Terms by continuing to use the Service.
+
+### 12. CONTACT INFORMATION
+
+12.1 Users may contact StashPay support by email at support@onionmill.com or through the Service's support feature.
 
 By accessing or using the StashPay Bitcoin Wallet, you acknowledge that you have read, understood, and agree to be bound by these Terms of Service. You understand that the Service is still in beta version and that there is a risk of losing funds due to technical issues or other unforeseen circumstances. You agree to use the Service at your own risk and to take appropriate measures to secure your funds.
