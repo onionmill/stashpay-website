@@ -14,7 +14,9 @@
 
 ### 3. LIMITATION OF LIABILITY
 
-3.1 Onion Mill LLC or its related companies shall not be liable for any damages, losses, or expenses incurred by Users due to the use or inability to use the Service, including but not limited to lost Bitcoin, transaction failures, transaction fees, or other technical issues.
+3.1 To the extent permitted by applicable law, Onion Mill LLC or its related companies shall not be liable for any damages, losses, or expenses incurred by Users due to the use or inability to use the Service, including but not limited to lost Bitcoin, transaction failures, transaction fees, or other technical issues.
+
+3.2 StashPay is open source software licensed under the GNU General Public License v3.0. For further details on the terms of use and liability see the license text under https://github.com/onionmill/stashpay/blob/main/LICENSE .
 
 ### 4. USER RESPONSIBILITY
 
@@ -29,6 +31,8 @@
 ### 5. FEES
 
 5.1 StashPay may charge transaction fees for sending and receiving Bitcoin through the Service. Fees will be disclosed in advance and are subject to change.
+
+5.2 StashPay is an open source client app and does not charge fees itself. Any transaction fees for sending and receiving Bitcoin through the client app arise from the Breez Liquid SDK, the Boltz.exchange service, the Liquid Network and the Bitcoin miners. By using the Service you agree to the terms of these third party services.
 
 ### 6. INTEGRATION
 

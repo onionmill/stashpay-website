@@ -12,7 +12,7 @@
 
 2.3 When using the Service, the app will connect to Electrum servers from Blockstream and Breez to fetch Bitcoin and Liquid blockchain data for the User's wallet and to broadcast transactions. The Electrum servers may collect anonymized data about the User's blockchain activity, such as transaction volume and frequency.
 
-2.4 The Service may use the Boltz.Exchange service to make Bitcoin and Lightning payments. The payment recipient, as well as payment amounts, are visible to the Boltz.Exchange server when making payments. The privacy policy of Boltz.Exchange applies to these payments. For more information, please refer to the website under https://boltz.exchange/ .
+2.4 The Service may use the Boltz.Exchange service to make Bitcoin and Lightning payments. The payment sender, recipient, as well as payment amounts are visible to the Boltz.Exchange server when making payments. The privacy policy of Boltz.Exchange applies to these payments. For more information, please refer to the website under https://boltz.exchange/ .
 
 ### 3. USE OF COLLECTED DATA
 
