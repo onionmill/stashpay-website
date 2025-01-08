@@ -20,11 +20,11 @@
 
 ### 4. USER RESPONSIBILITY
 
-4.1 Users are solely responsible for maintaining the confidentiality of their Wallet passwords, private keys, and other account information.
+4.1 Users are solely responsible for maintaining the confidentiality of their Wallet recovery phrase (seed phrase), private keys, and other account information.
 
 4.2 Users are responsible for taking appropriate security measures to protect their account information and devices used to access the Service.
 
-4.3 Users are advised to backup their private keys and other sensitive information to prevent loss of funds.
+4.3 The Service does not hold funds, does not execute and cannot monitor transactions, and does not operate or verify the Liquid Network or Boltz servers. Users are solely responsible to backup their recovery phrase and other sensitive information to prevent loss of funds.
 
 4.4 Users are responsible to pay any taxes, duties, and assessments now or hereafter claimed or imposed by any government authority, associated with the use of the Service.
 
