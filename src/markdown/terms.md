@@ -16,7 +16,7 @@
 
 3.1 To the extent permitted by applicable law, Onion Mill LLC or its related companies shall not be liable for any damages, losses, or expenses incurred by Users due to the use or inability to use the Service, including but not limited to lost Bitcoin, transaction failures, transaction fees, or other technical issues.
 
-3.2 StashPay is open source software licensed under the GNU General Public License v3.0. For further details on the terms of use and liability see the license text under https://github.com/onionmill/stashpay/blob/main/LICENSE .
+3.2 StashPay is open source software licensed under the GNU General Public License v3.0. For further details on the terms of use and liability see the [license text](https://github.com/onionmill/stashpay/blob/main/LICENSE).
 
 ### 4. USER RESPONSIBILITY
 
