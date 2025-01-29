@@ -21,7 +21,7 @@ const { title } = Astro.props;
 
 const makeTitle = title
   ? title + " | " + "StashPay"
-  : "StashPay - A Bitcoin wallet for freelancers and digital nomads";
+  : "StashPay - A minimalist Bitcoin wallet for everyone";
 ---
 
 <!DOCTYPE html>
@@ -35,7 +35,7 @@ const makeTitle = title
     <!-- <link rel="preload" as="image" href={src} alt="Hero" /> -->
     <SEO
       title={makeTitle}
-      description="Get paid in Bitcoin anywhere and with low fees. Works with your existing invoicing and accounting."
+      description="A minimalist Bitcoin wallet for everyone. Built on Lightning & Liquid."
       canonical={canonicalURL}
       twitter={{
         creator: "@surjithctly",
@@ -46,7 +46,7 @@ const makeTitle = title
         basic: {
           url: canonicalURL,
           type: "website",
-          title: `StashPay - A Bitcoin wallet for freelancers and digital nomads`,
+          title: `StashPay - A minimalist Bitcoin wallet for everyone`,
           image: resolvedImageWithDomain,
         },
         image: {
